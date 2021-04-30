@@ -56,9 +56,13 @@ h2 {
 
 .listItem {
     text-align: center;
-    margin-top: 0.618em;
-    margin-bottom: 0.618em;
+    margin-top: 1.618em;
+    margin-bottom: 1.618em;
 }
 a {
+    color: rgb(253, 254, 255);
     text-decoration: none;
+    border: 1px solid rgba(252,253,255,0.7);
+    border-radius: 0.618em;
+    padding: 1em;
 }
